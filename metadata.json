@@ -1,0 +1,7 @@
+{
+  "name": "Agence Visuelle IA",
+  "description": "Plateforme d'orchestration multi-agents pour la création d'actifs visuels et l'architecture système.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
